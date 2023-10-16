@@ -1,3 +1,2 @@
-# project_dir
-project_dir repo
-Hello World
+# Core Java Assignments
+Assignments will be uploaded in this repo.
